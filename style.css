@@ -46,4 +46,6 @@ input:hover{
 }
 input:disabled{
     background-color: tomato;
+    color: aliceblue;
+    cursor: default;
 }
